@@ -79,3 +79,4 @@ npm run test:run
 - Los datos y usuarios son ficticios y viven en el navegador.
 - Las fechas de demostración son relativas a la fecha actual.
 # Edtudia_app
+# Edtudia_app
